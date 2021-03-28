@@ -1,0 +1,28 @@
+{
+  "name": "testsback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.3.4"
+  },
+  "scripts": {
+    "test": "mocha src/e2etest/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angieVa/books_back-e2etest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angieVa/books_back-e2etest/issues"
+  },
+  "homepage": "https://github.com/angieVa/books_back-e2etest#readme",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}
