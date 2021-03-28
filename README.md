@@ -5,7 +5,7 @@ This repository contains the e2e test API deploy on: https://librarya00347829bac
 To run the test cases locally execute:
 ```
 npm i
-npm test
+npm run test
 ```
 
 The following test cases are located at src/e2etest/**:
